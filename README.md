@@ -10,7 +10,7 @@ This repository contains hands-on notebooks and code implementations covering va
 
 ## Structure
 
-- `notebooks/` – Jupyter Notebooks for each concept
+- `notebooks/` – Colab Notebooks for each concept
 - `models/` – Python implementation of models like Generator/Discriminator
 - `data/` – Sample dataset files for training
 - `requirements.txt` – Python dependencies
