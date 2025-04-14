@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GAN Image Generator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>GAN Image Generator</h1>
+
+    <form action="/generate" method="POST">
+        <button type="submit">Generate Image</button>
+    </form>
+
+    {% if image_url %}
+    <h2>Generated Image:</h2>
+    <img src="{{ url_for('static', filename=image_url) }}?{{ random.randint(0, 100000) }}
+" alt="Generated Image">
+    {% endif %}
+
+</body>
+</html>
