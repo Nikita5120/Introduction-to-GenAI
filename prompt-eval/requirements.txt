@@ -1,0 +1,3 @@
+promptfoo
+openai
+python-dotenv
