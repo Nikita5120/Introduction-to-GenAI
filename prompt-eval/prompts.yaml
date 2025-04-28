@@ -1,0 +1,3 @@
+prompts:
+  - "Translate the following to French: '{{input}}'"
+  - "Summarize this paragraph: '{{input}}'"
