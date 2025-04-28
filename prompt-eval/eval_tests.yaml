@@ -1,0 +1,10 @@
+tests:
+  - vars:
+      input: "Good morning"
+    assert:
+      contains: "Bonjour"
+
+  - vars:
+      input: "Large Language Models are transforming AI."
+    assert:
+      contains: "transforming AI"
