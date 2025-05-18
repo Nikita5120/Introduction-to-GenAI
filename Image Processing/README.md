@@ -1,18 +1,27 @@
-# Anime Face Generation with DCGAN
+# Anime Faces Dataset
 
-Generate high-quality anime faces using Deep Convolutional Generative Adversarial Networks (DCGANs) – an exciting project for exploring the creative realm of artificial intelligence and anime character design.
+Curated collection of 63,632 high-quality anime faces for diverse projects involving anime character generation.
+
+## Link: https://www.kaggle.com/datasets/splcher/animefacedataset
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
+- [Usage](#usage)
+- [Contributing](#contributing)
 
 ## Introduction
 
-Anime Face Generation with DCGAN is a project that leverages deep learning techniques to create new and unique anime faces. DCGANs are known for their ability to generate realistic images, making them an ideal choice for synthesizing anime character portraits. This project provides a foundation for both learning about DCGANs and producing captivating anime-style images.
+Welcome to the Anime Faces Dataset – a meticulously curated collection of 63,632 high-quality anime faces, offering a versatile playground for researchers, developers, and enthusiasts interested in exploring the vibrant world of anime character generation. Each face in this dataset is a masterpiece, capturing the diverse expressions and styles that make anime characters enchanting.
 
 ## Features
 
-- **DCGAN Architecture**: Implement the DCGAN model with convolutional layers for effective image generation.
-- **Anime-Specific Training Data**: Train the model on a dataset containing high-quality anime faces.
-- **Customization**: Experiment with hyperparameters and model configurations to achieve diverse and interesting results.
-- **User-Friendly Interface**: A simple and intuitive interface for generating anime faces with the trained model.
+- **High Quality**: Each face is handpicked to ensure intricate details and vibrant colors.
+- **Diversity**: Explore a wide range of expressions, from cute and whimsical to fierce and determined.
+- **Up-to-Date**: The dataset is regularly maintained to stay current with evolving anime character aesthetics.
+- **Versatile Usage**: Ideal for machine learning, computer vision, and fun projects like anime waifu generation.
+
+## Contributing
+-We welcome contributions to enhance the dataset further. If you have high-quality anime faces to share or interesting scripts for generating anime waifus
+
+
